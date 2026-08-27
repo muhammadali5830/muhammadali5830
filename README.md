@@ -1,44 +1,64 @@
-# Hi, I'm Muhammadali Ali
-
-I'm a **Frontend Developer in progress** from Uzbekistan, focused on building clean, responsive, and user-friendly web interfaces.
-
-I’m currently studying at **Sfera Academy** and strengthening my JavaScript fundamentals while continuing to improve my HTML, CSS, Sass, and responsive design skills.
-
-## What I work with
-
-- HTML5 and semantic markup
-- CSS3, Flexbox, Grid, and responsive layouts
-- Sass / SCSS
-- JavaScript fundamentals and DOM manipulation
-- Git and GitHub
-- Figma-to-code implementation
-
-## Featured projects
-
-| Project | What it demonstrates |
-| --- | --- |
-| [Sedra](https://github.com/muhammadali5830/sedra) | Multi-page product interface with structured HTML and CSS |
-| [YourBank](https://github.com/muhammadali5830/Your-Bank-) | Banking landing page focused on layout and visual hierarchy |
-| [Hamkor Bank](https://github.com/muhammadali5830/Hamkor-bank) | Banking interface practice project |
-
-## Currently learning
-
-JavaScript, reusable UI patterns, accessibility, clean code, and modern frontend workflows.
-
-## My learning approach
-
-I learn by building real interfaces, reviewing my code, and iterating on each project. Every repository is part of my progress toward becoming a stronger frontend developer.
-
-## Let’s connect
-
-- Instagram: [@muhammadali_2010_5830](https://www.instagram.com/muhammadali_2010_5830/)
-- Telegram: [@muhammadali_x10](https://t.me/muhammadali_x10)
-- Email: [muhammadali202631@gmail.com](mailto:muhammadali202631@gmail.com)
-
-Thanks for visiting my profile.
-
-![Profile views](https://komarev.com/ghpvc/?username=muhammadali5830&style=flat-square&color=2563eb)
+<div align="center">
+  <img src="Hi 👋, I'm Xolbutayev Muhammadali.png" width="100%" alt="banner"/>
+</div>
 
 ---
 
-*Always learning, always building.*
+### 🚀 About Me
+
+I'm a **Frontend Developer** passionate about building clean, responsive, and pixel-perfect web interfaces.
+
+- 🔭 Currently improving my skills in **HTML, CSS & JavaScript**
+- 🎨 I love converting **Figma designs** into functional websites
+- 🌱 Learning modern frontend workflows and best practices
+- 💬 Always open to new projects and collaborations
+
+---
+
+### 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://t.me/vwum_17" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
+</a>
+<a href="https://instagram.com/_vshm._" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
+</a>
+<a href="https://github.com/MalikaUralova" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,git,vscode,github" alt="Tech stack"/>
+
+</div>
+
+---
+
+
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalikaUralova&theme=react-dark&hide_border=true" alt="Activity graph"/>
+</div>
+
+---
+
+<div align="center">
+
+⭐️ Thanks for visiting my profile!
+
+</div>## Hi there 👋
+
+
