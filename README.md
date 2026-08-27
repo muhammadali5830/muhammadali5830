@@ -19,7 +19,7 @@ I'm a **Frontend Developer** passionate about building clean, responsive, and pi
 
 <div align="center">
 
-<a href="https://t.me/vwum_17" target="_blank">
+<a href="https://t.me/muhammadali_x10" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
 </a>
 <a href="https://instagram.com/_vshm._" target="_blank">
