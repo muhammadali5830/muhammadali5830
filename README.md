@@ -22,10 +22,10 @@ I'm a **Frontend Developer** passionate about building clean, responsive, and pi
 <a href="https://t.me/muhammadali_x10" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
 </a>
-<a href="https://instagram.com/_vshm._" target="_blank">
+<a href="https://instagram.com/muhammadali_2010_5830" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
 </a>
-<a href="https://github.com/MalikaUralova" target="_blank">
+<a href="https://github.com/muhammadali5830" target="_blank">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"/>
 </a>
 
