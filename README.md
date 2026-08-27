@@ -20,7 +20,6 @@ I’m currently studying at **Sfera Academy** and strengthening my JavaScript fu
 | [Sedra](https://github.com/muhammadali5830/sedra) | Multi-page product interface with structured HTML and CSS |
 | [YourBank](https://github.com/muhammadali5830/Your-Bank-) | Banking landing page focused on layout and visual hierarchy |
 | [Hamkor Bank](https://github.com/muhammadali5830/Hamkor-bank) | Banking interface practice project |
-| [Zirikkanda](https://github.com/muhammadali5830/zirikkanda) | SCSS-based responsive website practice |
 
 ## Currently learning
 
