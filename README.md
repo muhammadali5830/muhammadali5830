@@ -1,64 +1,22 @@
-<div align="center">
-  <img src="Hi 👋, I'm Xolbutayev Muhammadali.png" width="100%" alt="banner"/>
-</div>
+### About Me
 
----
+I’m **Muhammad Ali**, a frontend developer in progress and a student at Sfera Academy. I enjoy building clean, responsive, and user-friendly web interfaces.
 
-### 🚀 About Me
+- Currently improving my skills in **HTML, CSS, Sass, and JavaScript**
+- Turning **Figma designs** into functional websites
+- Learning modern frontend tools and best practices
+- Open to collaboration and new frontend projects
 
-I'm a **Frontend Developer** passionate about building clean, responsive, and pixel-perfect web interfaces.
+### Connect with me
 
-- 🔭 Currently improving my skills in **HTML, CSS & JavaScript**
-- 🎨 I love converting **Figma designs** into functional websites
-- 🌱 Learning modern frontend workflows and best practices
-- 💬 Always open to new projects and collaborations
+[Telegram](https://t.me/muhammadali_x10) · [Instagram](https://instagram.com/muhammadali_2010_5830) · [GitHub](https://github.com/muhammadali5830)
 
----
+### Tech Stack
 
-### 🌐 Connect with me
+HTML · CSS · Sass · JavaScript · Figma · Git · GitHub · VS Code
 
-<div align="center">
+### GitHub Activity
 
-<a href="https://t.me/muhammadali_x10" target="_blank">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
-</a>
-<a href="https://instagram.com/muhammadali_2010_5830" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
-</a>
-<a href="https://github.com/muhammadali5830" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"/>
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadali5830&theme=react-dark&hide_border=true)
 
-</div>
-
----
-
-### 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,git,vscode,github" alt="Tech stack"/>
-
-</div>
-
----
-
-
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalikaUralova&theme=react-dark&hide_border=true" alt="Activity graph"/>
-</div>
-
----
-
-<div align="center">
-
-⭐️ Thanks for visiting my profile!
-
-</div>## Hi there 👋
-
-
+⭐ Thanks for visiting my profile!
